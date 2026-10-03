@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://taha-mesbahi.github.io/aircard-mac-fr/sitemap.xml
